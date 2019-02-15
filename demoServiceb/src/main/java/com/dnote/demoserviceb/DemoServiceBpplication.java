@@ -1,4 +1,4 @@
-package com.zfec.demoserviceb;
+package com.dnote.demoserviceb;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;

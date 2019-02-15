@@ -1,4 +1,4 @@
-package com.zfec.demoserviceb.controller;
+package com.dnote.demoserviceb.controller;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.codingapi.txlcn.commons.annotation.LcnTransaction;
+import com.dnote.demoserviceb.dao.ITestDAO;
 import com.zfec.common.dto.service1DTO.TestABC;
-import com.zfec.demoserviceb.dao.ITestDAO;
 
 //import com.codingapi.txlcn.commons.annotation.LcnTransaction;
 //import com.zfec.common.dto.service1DTO.TestABC;
