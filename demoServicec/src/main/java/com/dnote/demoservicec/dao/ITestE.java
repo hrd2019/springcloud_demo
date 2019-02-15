@@ -1,4 +1,4 @@
-package com.zfec.demoservicec.dao;
+package com.dnote.demoservicec.dao;
 
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Mapper;
@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 //import com.zfec.common.dto.service1DTO.TestABC;
 
-@FeignClient("demoServiceD")
-public interface ITestD {
-    @RequestMapping("/add")
+@FeignClient("demoServiceE")
+public interface ITestE {
+    @RequestMapping("/adda")
     void insert2(@RequestParam("a") String a,@RequestParam("b") String b);
 }

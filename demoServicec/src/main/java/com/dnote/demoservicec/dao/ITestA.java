@@ -1,4 +1,4 @@
-package com.zfec.demoservicec.dao;
+package com.dnote.demoservicec.dao;
 
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Mapper;

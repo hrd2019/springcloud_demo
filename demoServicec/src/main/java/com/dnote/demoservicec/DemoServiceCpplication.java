@@ -1,4 +1,4 @@
-package com.zfec.demoservicec;
+package com.dnote.demoservicec;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
