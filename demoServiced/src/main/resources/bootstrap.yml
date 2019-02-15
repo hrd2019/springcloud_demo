@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    config:
+      name: postgresql
+      profile: hrd
+      enabled: true
+      label: configcenter
+      uri: http://192.168.47.109:10002
+  profiles:
+    active: subversion
