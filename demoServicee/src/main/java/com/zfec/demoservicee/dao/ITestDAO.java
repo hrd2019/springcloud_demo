@@ -8,7 +8,7 @@ import org.apache.ibatis.annotations.Update;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.beans.factory.annotation.Qualifier;
 
-import com.zfec.common.dto.service1DTO.TestABC;
+import com.dnote.common.dto.service1DTO.TestABC;
 
 //import com.zfec.common.dto.service1DTO.TestABC;
 

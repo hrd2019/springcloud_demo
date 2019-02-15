@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.zfec</groupId>
-	<artifactId>demoServicea</artifactId>
+	<artifactId>demoServicec</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demoServicea</name>
+	<name>demoServicec</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

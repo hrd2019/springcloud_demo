@@ -22,8 +22,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.codingapi.txlcn.commons.annotation.LcnTransaction;
 //import com.zfec.common.db.aspect.cutpoint.RedisCacheAble;
-import com.zfec.common.dto.service1DTO.TestABC;
-import com.zfec.common.dto.service1DTO.User;
+import com.dnote.common.dto.service1DTO.TestABC;
+import com.dnote.common.dto.service1DTO.User;
 import com.zfec.demoservicee.dao.ITestDAO;
 
 import redis.clients.jedis.JedisCluster;
